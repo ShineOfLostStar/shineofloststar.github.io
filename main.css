@@ -1,0 +1,31 @@
+body {
+    background-color: #d5e1ef;
+}
+
+.image-1{
+    border-radius: 15px;
+    width: 300px;
+}
+
+main{
+    border: white solid 20px;
+    background-color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 20px;
+    position: fixed;
+    margin: 100px 600px;
+}
+
+h3{ 
+    font-weight: 700;
+    font-family: Lucida Sans Unicode;
+    color:#252e4f ;
+}
+
+p {
+    font-family: Microsoft Sans Serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #999ca3;
+}
